@@ -72,7 +72,7 @@ JNIEXPORT jint JNICALL
 JNI_OnLoad(JavaVM * jvm, void *)
 {
   g_jvm = jvm;
-  g_poiClazz = jni::GetGlobalClassRef(env, "com/tripaimap/maps/data/Poi");
+  g_poiClazz = jni::GetGlobalClassRef(env, "com/package/data/Poi");
 
   return JNI_VERSION_1_6;
 }
