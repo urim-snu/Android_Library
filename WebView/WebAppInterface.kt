@@ -14,7 +14,7 @@ import com.package.maps.location.LocationHelper
 /**  Example of WebAppInterface
  *  We can Access System dependent Action like Calling, Sharing, Opening App, etc in JavaScript by using this.
  *  How to use in JavaScript: Android.functionName()
- * /
+ ** /
 
 
 /** Instantiate the interface and set the context  */
