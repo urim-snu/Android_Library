@@ -11,13 +11,14 @@ import android.widget.Toast
 import androidx.fragment.app.findFragment
 import com.package.maps.location.LocationHelper
 
-/**  Example of WebAppInterface
+/*  Example of WebAppInterface
  *  We can Access System dependent Action like Calling, Sharing, Opening App, etc in JavaScript by using this.
  *  How to use in JavaScript: Android.functionName()
- ** /
+ */
 
 
-/** Instantiate the interface and set the context  */
+// Instantiate the interface and set the context
+
 open class WebAppInterface(private val mContext: Context, private val webView: WebView, private val callback: OnWebInteractionCallback?) {
 
     constructor(context:Context, webView: WebView): this(context, webView, null)
