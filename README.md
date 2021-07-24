@@ -9,7 +9,7 @@ Class 단위로 보관할 코드는 따로 파일로 작성히고, 그렇지 않
 
 [Several Things about WebView](/WebView)
 
-## JetPack
+## Jetpack
 
 [DataBinding](/DataBinding)
 
