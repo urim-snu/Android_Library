@@ -5,7 +5,7 @@ Class 단위로 보관할 코드는 따로 파일로 작성히고, 그렇지 않
 
 ## Views
 
-[Several Things about Recycler View](/RecyclerView)
+Several Things about Recycler View
 
 [Several Things about WebView](/WebView)
 
@@ -33,4 +33,4 @@ Class 단위로 보관할 코드는 따로 파일로 작성히고, 그렇지 않
 
 [How to Deal with Back Button in Fragment](/BackButton)
 
-[Miscellaneous Snippets](/Miscellaneous)
+Miscellaneous Snippets
